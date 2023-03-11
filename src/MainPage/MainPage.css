@@ -1,0 +1,36 @@
+.main-page-container > button{
+    margin-top: 40px;
+    height: 28px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 14px;
+    width: 200px;
+}
+
+.main-page-container > .default {
+    border: 1px solid #082040;
+    border-radius: 5px;
+    background: #001538;
+    color: #A8AEBD;
+    
+}
+
+.main-page-container > .open {
+    border: 1px solid #BED8FF;
+    background: #BED8FF;
+    color: #000;
+
+}
+
+.random-label {
+    font-size: 18px;
+    margin-top: 15px;
+    height: 20px;
+}
+
+.highlight {
+    background: #00153A;
+    padding: 4px;
+    width: 100%;
+}
+
